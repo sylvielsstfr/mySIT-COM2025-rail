@@ -1,0 +1,10 @@
+{
+	  "display_name": "kernelrailusdf",
+	  "language":     "python",
+	    "argv": [
+		          "/sdf/home/d/dagoret/.local/share/jupyter/kernels/jupyter-helper.sh",
+			        "-f",
+			        "{connection_file}"
+					  ]
+}
+
